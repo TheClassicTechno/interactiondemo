@@ -1,0 +1,7 @@
+fpdf
+beautifulsoup4
+python-dotenv
+google-api-python-client
+google-auth
+openai
+langfuse

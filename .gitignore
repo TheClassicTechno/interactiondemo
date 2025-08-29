@@ -1,0 +1,43 @@
+# .env files (ignore all)
+.env
+.env.*
+
+# DO NOT ignore package.json (should be tracked for dependencies)
+
+# Node
+node_modules/
+build/
+dist/
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+.mypy_cache/
+.pytest_cache/
+*.egg-info/
+*.egg
+token.json
+credentials.json
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+
+# VSCode
+.vscode/
+
+# React/CRA
+frontend/build/
+frontend/dist/
+frontend/node_modules/
+frontend/.env
+frontend/.env.*
+frontend/.DS_Store
+frontend/Thumbs.db

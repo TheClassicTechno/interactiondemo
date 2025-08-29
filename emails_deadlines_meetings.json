@@ -1,0 +1,72 @@
+[
+  {
+    "from": "project.manager@company.com",
+    "to": "jane.doe@email.com",
+    "subject": "Final Reminder: Q3 Project Deadline Approaching",
+    "date": "2025-08-30T09:00:00Z",
+    "body": "Hi Jane,\n\nThis is a final reminder that the Q3 project deliverables are due by 5:00 PM on September 2nd. Please ensure all documentation is uploaded to the shared drive and that the final report is submitted for review. If you anticipate any delays, notify the team as soon as possible.\n\nBest,\nAlex Project Manager"
+  },
+  {
+    "from": "calendar@company.com",
+    "to": "jane.doe@email.com",
+    "subject": "Upcoming Event: Weekly Team Sync Meeting",
+    "date": "2025-08-29T14:00:00Z",
+    "body": "Dear Jane,\n\nThis is a reminder for your upcoming Weekly Team Sync scheduled for August 29th at 3:00 PM in Conference Room B. The agenda includes project updates, blockers, and next steps. Please come prepared with your status report.\n\nBest,\nCompany Calendar Bot"
+  },
+  {
+    "from": "reminders@company.com",
+    "to": "jane.doe@email.com",
+    "subject": "Action Required: Submit Timesheet",
+    "date": "2025-08-29T08:00:00Z",
+    "body": "Hi Jane,\n\nThis is a friendly reminder to submit your timesheet for the week ending August 29th. Timesheets are due by 6:00 PM today. Late submissions may result in delayed payroll processing.\n\nThank you,\nHR Department"
+  },
+  {
+    "from": "events@company.com",
+    "to": "jane.doe@email.com",
+    "subject": "Invitation: Product Launch Planning Meeting",
+    "date": "2025-09-01T16:00:00Z",
+    "body": "Hello Jane,\n\nYou are invited to the Product Launch Planning Meeting on September 1st at 4:00 PM via Zoom. The meeting will cover the launch timeline, marketing strategies, and task assignments. Please review the attached agenda and confirm your attendance.\n\nRegards,\nEvents Team"
+  },
+  {
+    "from": "reminders@calendar.com",
+    "to": "jane.doe@email.com",
+    "subject": "Personal Reminder: Doctor's Appointment",
+    "date": "2025-08-31T10:30:00Z",
+    "body": "Hi Jane,\n\nThis is a reminder for your upcoming doctor's appointment on August 31st at 11:00 AM at City Health Clinic. Please bring your insurance card and arrive 10 minutes early.\n\nBest wishes,\nYour Calendar Assistant"
+  },
+  {
+    "from": "teamlead@company.com",
+    "to": "jane.doe@email.com",
+    "subject": "Follow-Up: Client Feedback Review Meeting Notes",
+    "date": "2025-08-28T17:00:00Z",
+    "body": "Hi Jane,\n\nThank you for your input during today's client feedback review. Please find attached the meeting notes and action items. Your next steps include preparing a summary of the feedback and proposing solutions by September 3rd. Let me know if you have any questions.\n\nBest,\nSam Team Lead"
+  },
+  {
+    "from": "calendar@company.com",
+    "to": "jane.doe@email.com",
+    "subject": "Event Reminder: Quarterly All-Hands Meeting",
+    "date": "2025-09-05T13:00:00Z",
+    "body": "Dear Jane,\n\nThis is a reminder for the Quarterly All-Hands Meeting on September 5th at 2:00 PM in the Main Auditorium. The CEO will present company updates, and there will be a Q&A session. Please RSVP if you haven't already.\n\nBest,\nCompany Calendar Bot"
+  },
+  {
+    "from": "reminders@company.com",
+    "to": "jane.doe@email.com",
+    "subject": "Task Reminder: Expense Report Submission",
+    "date": "2025-08-29T12:00:00Z",
+    "body": "Hi Jane,\n\nThis is a reminder to submit your expense report for August by the end of the day. Please upload all receipts and complete the form in the finance portal.\n\nThank you,\nFinance Team"
+  },
+  {
+    "from": "calendar@company.com",
+    "to": "jane.doe@email.com",
+    "subject": "Calendar Event: 1:1 with Manager",
+    "date": "2025-08-30T15:00:00Z",
+    "body": "Hi Jane,\n\nYou have a 1:1 meeting scheduled with your manager, Alex, on August 30th at 4:00 PM in Meeting Room 2. Please prepare your progress update and any discussion points.\n\nBest,\nCompany Calendar Bot"
+  },
+  {
+    "from": "reminders@calendar.com",
+    "to": "jane.doe@email.com",
+    "subject": "Personal Reminder: Yoga Class",
+    "date": "2025-08-29T18:00:00Z",
+    "body": "Hi Jane,\n\nJust a reminder that your yoga class is scheduled for August 29th at 7:00 PM at Downtown Yoga Studio. Remember to bring your mat and water bottle.\n\nNamaste,\nYour Calendar Assistant"
+  }
+]

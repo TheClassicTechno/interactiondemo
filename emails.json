@@ -1,0 +1,20 @@
+[
+  {
+    "sender": "hr@company.com",
+    "subject": "Interview Invitation",
+    "date": "2025-09-01",
+    "body": "We are excited to invite you to an interview on Sept 2 at 2PM."
+  },
+  {
+    "sender": "uber@receipts.com",
+    "subject": "Your Uber Receipt",
+    "date": "2025-09-01",
+    "body": "Thanks for riding with Uber! Your fare was $19.50."
+  },
+  {
+    "sender": "manager@startup.com",
+    "subject": "Project Deadline Reminder",
+    "date": "2025-09-01",
+    "body": "Don’t forget, the Project B report is due Sept 10."
+  }
+]
